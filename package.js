@@ -1,6 +1,6 @@
 Package.describe({
   name: "kylenoble:node-summary",
-  summary: "Summarizes text using a naive summarization algorithm, based off of the Python implementation by shlomibabluki. Based on Node-Summary by jbrooksuk.",
+  summary: "Summarizes text using a naive summarization algorithm. Meteor wrapper of jbrooksuk's node-summary",
   version: "0.1.0",
   git: "https://github.com/kylenoble/meteor-node-summary"
 });
